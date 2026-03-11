@@ -1,0 +1,29 @@
+# Python 虚拟环境
+venv/
+env/
+ENV/
+./venv
+
+# Python 缓存文件
+__oycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE 配置
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS 系统文件
+.DS_Store
+
+# 环境变量文件（可能包含敏感信息）
+.env
+.env.local
+
+# 日志文件
+*.log
